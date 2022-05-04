@@ -2,7 +2,7 @@
 Welcome to the Creative coding class - Spring 2022 // Beginner level - session! Below are some useful information:
 
 # Live sessions
-The live sessions with your tutor @itsKaspar will be held on:
+The live sessions with your tutor Kaspar will be held on:
 - May 8th
 - May 22nd
 - June 5th
@@ -24,3 +24,16 @@ You will need to setup an account to the following tools in order to follow the 
 
 # Recordings
 Recordings from the live sessions will be posted here.
+
+# Team
+- Tutor
+<br>Kaspar Ravel<br />
+@. <kaspar.ravel@gmail.com>
+w. [kaspar.wtf](https://www.kaspar.wtf)
+ig. [@kaspar.wtf](https://www.instagram.com/kaspar.wtf/)
+
+- Coordinator
+<br>Aurélien Krieger<br />
+@. <aurelien@obsolete.studio>
+w. [kaspar.wtf](https://www.obsolete.studio)
+ig. [@obsolete.studio](https://www.instagram.com/obsolete.studio/)
