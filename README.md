@@ -26,14 +26,14 @@ You will need to setup an account to the following tools in order to follow the 
 Recordings from the live sessions will be posted here.
 
 # Team
-- Tutor
-<b>Kaspar Ravel</b> <br>
+- <b>Tutor
+Kaspar Ravel</b> <br>
 @. <kaspar.ravel@gmail.com>
 w. [kaspar.wtf](https://www.kaspar.wtf)
 ig. [@kaspar.wtf](https://www.instagram.com/kaspar.wtf/)
 
-- Coordinator
-<b>Aurélien Krieger</b> <br>
+- <b>Coordinator
+Aurélien Krieger</b> <br>
 @. <aurelien@obsolete.studio>
 w. [obsolete.studio](https://www.obsolete.studio)
 ig. [@obsolete.studio](https://www.instagram.com/obsolete.studio/)
