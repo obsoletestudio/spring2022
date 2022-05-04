@@ -2,7 +2,7 @@
 Welcome to the Creative coding class - Spring 2022 // Beginner level - session! Below are some useful information:
 
 # Live sessions
-The live sessions with your tutor Kaspar will be held on:
+The live sessions with your tutor @itsKaspar will be held on:
 - May 8th
 - May 22nd
 - June 5th
