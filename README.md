@@ -14,7 +14,7 @@ From 5pm until 8pm [CEST](https://www.timeanddate.com/time/zones/cest)
 The link to the live session: [https://meet.google.com/mip-dfzx-hkj]
 
 # Chat for support
-In between live session, feel free to ask questions to your tutor in the [Discord channel](https://discord.gg/Dz6TWJRP)
+In between live sessions, feel free to ask questions to your tutor in the [Discord channel](https://discord.gg/Dz6TWJRP)
 
 # Tools
 You will need to setup an account to the following tools in order to follow the course:
