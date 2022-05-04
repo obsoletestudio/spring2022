@@ -35,5 +35,5 @@ ig. [@kaspar.wtf](https://www.instagram.com/kaspar.wtf/)
 - Coordinator
 <br>Aurélien Krieger<br />
 @. <aurelien@obsolete.studio>
-w. [kaspar.wtf](https://www.obsolete.studio)
+w. [obsolete.studio](https://www.obsolete.studio)
 ig. [@obsolete.studio](https://www.instagram.com/obsolete.studio/)
