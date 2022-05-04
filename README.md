@@ -27,13 +27,13 @@ Recordings from the live sessions will be posted here.
 
 # Team
 - Tutor
-<br>Kaspar Ravel<br />
+<b>Kaspar Ravel</b> <br>
 @. <kaspar.ravel@gmail.com>
 w. [kaspar.wtf](https://www.kaspar.wtf)
 ig. [@kaspar.wtf](https://www.instagram.com/kaspar.wtf/)
 
 - Coordinator
-<br>Aurélien Krieger<br />
+<b>Aurélien Krieger</b> <br>
 @. <aurelien@obsolete.studio>
 w. [obsolete.studio](https://www.obsolete.studio)
 ig. [@obsolete.studio](https://www.instagram.com/obsolete.studio/)
