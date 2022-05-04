@@ -21,3 +21,6 @@ You will need to setup an account to the following tools in order to follow the 
 
 - [p5.js](https://editor.p5js.org/) to edit code
 - [Discord](https://discord.com/) for continuous support
+
+# Recordings
+Recordings from the live sessions will be posted here.
