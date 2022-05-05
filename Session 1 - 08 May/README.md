@@ -58,10 +58,15 @@ To have the ability to save sketches you will need to [create an account](https:
 - colors : labels and hex codes
 
 - Example 1 : Drawing a circle that follows the mouse position
+
+  circle(mouseX, mouseY, 10);
+
 - Example 2 : Drawing a circle whose radius varies depending on mouse position
 
 ## Introduction to Interactive Design
 
-### Exercise 1 : Breaking Down and understand code
+### In-Class Exercise 1 :
 
-### Exercise 2 :
+### In-Class Exercise 2 :
+
+### Assignment for next week
