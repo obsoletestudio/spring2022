@@ -57,11 +57,13 @@ To have the ability to save sketches you will need to [create an account](https:
 - graphics : the stroke() and fill() functions
 - colors : labels and hex codes
 
-- Example 1 : Drawing a circle that follows the mouse position
+- Example 1 : Drawing a circle of radius 10 that follows the mouse position
 
-  circle(mouseX, mouseY, 10);
+`circle(mouseX, mouseY, 10);`
 
-- Example 2 : Drawing a circle whose radius varies depending on mouse position
+- Example 2 : Drawing a circle of radius 10 at the center of the sketch, whose radius varies depending on mouse x-position
+
+`circle(width/2, height/2, 10);`
 
 ## Introduction to Interactive Design
 
