@@ -14,12 +14,13 @@ To create a program that is expressive in contrast to functional
 
 ### p5.js community
 
->We are a community of, and in solidarity with, people from every gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, disability, class, religion, culture, subculture, political opinion, age, skill level, occupation, and background. We acknowledge that not everyone has the time, financial means, or capacity to actively participate, but we recognize and encourage involvement of all kinds. We facilitate and foster access and empowerment. We are all learners.
+> We are a community of, and in solidarity with, people from every gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, disability, class, religion, culture, subculture, political opinion, age, skill level, occupation, and background. We acknowledge that not everyone has the time, financial means, or capacity to actively participate, but we recognize and encourage involvement of all kinds. We facilitate and foster access and empowerment. We are all learners.
 
 ### how to use p5.js
 
-- the [p5.js website](https://p5js.org/)
-- the [p5.js online editor](https://editor.p5js.org/)
+- the [p5.js website](https://p5js.org/) : the project's official website
+- the [p5.js online editor](https://editor.p5js.org/) : an online tool to write and execute code
+- the [p5.js documentation](https://p5js.org/reference/) : a reference for all existing functions
 
 To have the ability to save sketches you will need to [create an account](https://editor.p5js.org/signup) on the p5.js website
 
@@ -30,7 +31,6 @@ To have the ability to save sketches you will need to [create an account](https:
 - the sketch
 - the preview
 - the console
-<font color="red">This text is red!</font>
 
 ### Functions
 
@@ -70,6 +70,17 @@ To have the ability to save sketches you will need to [create an account](https:
 
 ### In-Class Exercise 1 :
 
+code-example-1.js
+
 ### In-Class Exercise 2 :
 
+code-example-2.js
+
+### Correction of Exercize 2
+
+- correcting things if needed
+- factoring into two functions : drawSun() and drawEnvironment()
+
 ### Assignment for next week
+
+creating an abstract shape that fits inside a square

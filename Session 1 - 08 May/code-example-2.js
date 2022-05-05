@@ -1,17 +1,12 @@
-let x1, x2, y1, y2;
-
 function setup() {
   createCanvas(400, 400);
-  x1 = 0;
-  x2 = width;
-  y1 = 0;
-  y2 = 0;
 }
 
 function draw() {
   background("#F8ECD1");
+  
   drawSun();
-  drawEnvironment()
+  drawEnvironment();
 }
 
 function drawEnvironment(){
