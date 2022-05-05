@@ -1,34 +1,39 @@
-let x1, x2, y1, y2;
-
 function setup() {
   createCanvas(400, 400);
-  x1 = 0;
-  x2 = width;
-  y1 = 0;
-  y2 = 0;
 }
 
 function draw() {
-  background("#F8ECD1");
-  drawSun();
-  drawEnvironment()
-}
 
-function drawEnvironment(){
+  // change rectangle drawing mode from CORNER (default) to CENTER
+  // https://p5js.org/reference/#/p5/rectMode
+  rectMode(CENTER);
+
+  // change degault stroke weight from 1 (default) to 5 pixels.
+  // https://p5js.org/reference/#/p5/strokeWeight
+  strokeWeight(5);
+
+  // Left Side : Black Background
+
   noStroke();
-  fill("#DEB6AB")
-  ellipse(0, height-50, width*2.8, height/1.5);
-  fill("#AC7D88")
-  ellipse(width, height, width*2.8, height/1.5);
-  fill("#85586F")
-  ellipse(0, height+50, width*3, height/1.5);
-}
+  fill('black')
+  rect(width/4,height/2,width/2,height);
 
-function drawSun(){
-  fill("#FFDCB8")
-  circle(mouseX, mouseY, height-mouseY);
-  fill("#FFEEBB")
-  circle(mouseX, mouseY, height-(mouseY*1.5));
-  fill("#FDFFBC")
-  circle(mouseX, mouseY, height/2-(mouseY*1.5));
+  // Left Side : White Square
+
+  stroke('white')
+  noFill();
+  rect(width/4, height/2,mouseX,mouseX);
+
+  // Right Side : White Background
+
+  noStroke();
+  fill('white')
+  rect(3*width/4,height/2,width/2,height);
+
+  // Right Side : Black Circle
+
+  stroke('black')
+  noFill();
+  ellipse(3*width/4,height/2,mouseX, mouseX);
+
 }
