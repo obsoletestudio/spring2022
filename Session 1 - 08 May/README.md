@@ -10,9 +10,16 @@ To create a program that is expressive in contrast to functional
 
 # p5.js
 
-A Javascript Library
+> p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.
+
+> Using the metaphor of a sketch, p5.js has a full set of drawing functionality. However, you’re not limited to your drawing canvas. You can think of your whole browser page as your sketch, including HTML5 objects for text, input, video, webcam, and sound.
+
+the p5.js community
+
+>We are a community of, and in solidarity with, people from every gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, disability, class, religion, culture, subculture, political opinion, age, skill level, occupation, and background. We acknowledge that not everyone has the time, financial means, or capacity to actively participate, but we recognize and encourage involvement of all kinds. We facilitate and foster access and empowerment. We are all learners.
 
 the [p5.js website](https://p5js.org/)
+
 the [p5.js online editor](https://editor.p5js.org/)
 
 To have the ability to save sketches you will need to [create an account](https://editor.p5js.org/signup) on the p5.js website
