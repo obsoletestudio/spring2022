@@ -64,7 +64,7 @@ To have the ability to save sketches you will need to [create an account](https:
 
 - Example 2 : Drawing a circle of radius 10 at the center of the sketch, whose radius varies depending on mouse x-position
 
-`circle(width/2, height/2, 10);`
+`circle(width/2, height/2, mouseX);`
 
 ## Introduction to Interactive Design
 
@@ -81,6 +81,9 @@ code-example-2.js
 - correcting things if needed
 - factoring into two functions : drawSun() and drawEnvironment()
 
-### Assignment for next week
-
-creating an abstract shape that fits inside a square
+### Assignments for next week
+Draw your own landscape from abstract shapes
+- use different shape types : rect / circle / ellipse / line / triangle
+- use different colors from a color palette
+- use the width and height variable to position the objects
+- make some of the objects interactive

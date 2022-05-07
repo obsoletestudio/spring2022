@@ -4,7 +4,7 @@ function setup() {
 
 function draw() {
   background("#F8ECD1");
-  
+
   drawSun();
   drawEnvironment();
 }
@@ -20,10 +20,8 @@ function drawEnvironment(){
 }
 
 function drawSun(){
-  fill("#FFDCB8")
-  circle(mouseX, mouseY, height-mouseY);
   fill("#FFEEBB")
-  circle(mouseX, mouseY, height-(mouseY*1.5));
+  circle(mouseX, mouseY, mouseY *2 + 50);
   fill("#FDFFBC")
-  circle(mouseX, mouseY, height/2-(mouseY*1.5));
+  circle(mouseX, mouseY, mouseY *0.5 + 50);
 }
