@@ -23,7 +23,8 @@ You will need to setup an account to the following tools in order to follow the 
 - [Discord](https://discord.gg/Dz6TWJRP) for continuous support
 
 # Recordings
-Recordings from the live sessions will be posted here.
+Recordings from the live sessions can be found here:
+- [Session 1 (in french)] (https://www.dropbox.com/s/bxsscomcia73ftk/session%201%20FR.mp4?dl=0)
 
 # Team
 - <b>Tutor
