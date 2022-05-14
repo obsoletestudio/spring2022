@@ -20,7 +20,7 @@ In between live sessions, feel free to ask questions to your tutor in the [Disco
 You will need to setup an account to the following tools in order to follow the course:
 
 - [p5.js](https://editor.p5js.org/) to edit code
-- [Discord](https://discord.gg/Dz6TWJRP) for continuous support
+- [Discord](https://discord.gg/Bghzd84f) for continuous support
 
 # Recordings
 Recordings from the live sessions can be found here:
