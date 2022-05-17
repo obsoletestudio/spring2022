@@ -25,6 +25,7 @@ You will need to setup an account to the following tools in order to follow the 
 # Recordings
 Recordings from the live sessions can be found here:
 - [Session 1 (in french)](https://www.dropbox.com/s/bqoqm8xpjh2xm3h/session1FR.mp4?dl=0)
+- [Session 1 (in english)](https://www.dropbox.com/s/5llcjh6hbzeagw6/session1EN.mp4?dl=0)
 
 # Team
 - <b>Tutor
