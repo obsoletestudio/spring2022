@@ -1,5 +1,9 @@
 # 2nd Session
 
+## Last week's Exercize
+
+Corrections and such
+
 ## Chaotic Design, an introduction to randomness in generative art
 
 ### The random function
@@ -8,6 +12,13 @@ the [random() function documentation](https://p5js.org/reference/#/p5/random) on
 
 - evaluating the random() function in the console
 - using the random() function
+- making a randomly placed circle at every frame
+
+### Updating Last weeks exercise with the use of the random() function
+
+- random positioning of objects
+- the noLoop() function (creating a still)
+- the frameRate() function (creating a slow animation)
 
 ## A Practical Scenario : The Random Walker
 
@@ -47,5 +58,19 @@ Adding a custom function to wrap the random walker's position to opposite walls 
 
 code-example-3.js
 
+### In-Class Exercise 3 :
 
-### Variable Scope
+Adding a custom function to contain the random walker's position to the walls
+
+code-example-3.js
+
+### Extra Exercise :
+
+Create a random path by adding a new line connected to the old one at every draw loop
+
+- create a variable to store the current position (initialize at center of sketch)
+- create a variable to store the next position (add random x and random y to the current position)
+- draw a line from current position to next position
+- update the current position to the next position
+- update the next position (add random x and random y to itself)
+- repeat last three steps
