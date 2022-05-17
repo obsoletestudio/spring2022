@@ -20,11 +20,12 @@ In between live sessions, feel free to ask questions to your tutor in the [Disco
 You will need to setup an account to the following tools in order to follow the course:
 
 - [p5.js](https://editor.p5js.org/) to edit code
-- [Discord](https://discord.gg/Dz6TWJRP) for continuous support
+- [Discord](https://discord.gg/Bghzd84f) for continuous support
 
 # Recordings
 Recordings from the live sessions can be found here:
 - [Session 1 (in french)](https://www.dropbox.com/s/bqoqm8xpjh2xm3h/session1FR.mp4?dl=0)
+- [Session 1 (in english)](https://www.dropbox.com/s/5llcjh6hbzeagw6/session1EN.mp4?dl=0)
 
 # Team
 - <b>Tutor
