@@ -27,6 +27,7 @@ Recordings from the live sessions can be found here:
 - [Session 1 (in french)](https://www.dropbox.com/s/bqoqm8xpjh2xm3h/session1FR.mp4?dl=0)
 - [Session 1 (in english)](https://www.dropbox.com/s/5llcjh6hbzeagw6/session1EN.mp4?dl=0)
 - [Session 2 (in english)](https://www.dropbox.com/s/xwm07f8bh057y38/session2EN.mkv?dl=0)
+- [Session 3 (in french)](https://www.dropbox.com/s/vmral1k6xkj6svx/session3FR.mkv?dl=0)
 
 # Team
 - <b>Tutor
